@@ -30,7 +30,9 @@
             flex-direction: column;
             min-height: 100vh;
         }
-
+.markdown-body p{ 
+display:none;
+}
       
         /* Fix for Google Translate widget visibility */
         .skiptranslate iframe, .skiptranslate .goog-te-gadget-simple {
